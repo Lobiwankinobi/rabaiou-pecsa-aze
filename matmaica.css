@@ -113,6 +113,8 @@ header {
 main {
     margin: 40px auto;
     padding: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 h1 {
