@@ -7,6 +7,7 @@
 :root {
     --preto: #000000;
     --marinho: #493D9E;
+    --amareloclaro:var(--azul-claro);
     --roxo-claro:#B2A5FF;
     --vermelho: #bf2e2e;
     --azul-claro:#f8e3b5;
