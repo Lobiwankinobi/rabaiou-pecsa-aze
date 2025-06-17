@@ -144,8 +144,6 @@ h1 {
 .conteudo:hover {
     transform: translateY(-10px) scale(1.05);
     box-shadow: 0 0 0 25px rgba(0, 0, 0, 0.2);
-    display: flex;
-    justify-content: center;
 }
 
 .conteudo h2 {
@@ -157,6 +155,8 @@ h1 {
 }
 
 .conteudo p {
+    display: flex;
+    justify-content: center;
     line-height: 1.6;
     color: var(--preto);
     margin-bottom: 20px;
